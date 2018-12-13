@@ -1,4 +1,4 @@
 spring:
   datasource:
-    username: semi
+    username: alibct
     password: '{cipher}435c04acf168fa410a79d8f934a2f6c375dc4dc0f7545275da47803646f5274d'
