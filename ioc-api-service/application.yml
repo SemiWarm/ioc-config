@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ioc-api-service
+server:
+  port: 8080
